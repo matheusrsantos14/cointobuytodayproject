@@ -346,7 +346,17 @@ a {
   text-align: center;
 }
 
+.field {
+  margin: 20px;
+}
 
+.field-input{
+  padding-top: 10px;
+  border-radius: 10px;
+  border: solid 1px gray;
+  text-align: center;
+  width: 300px;
+}
 
 
 
